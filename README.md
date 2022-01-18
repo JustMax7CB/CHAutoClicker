@@ -2,7 +2,6 @@
 Auto Clicker for the game "Clicker Heroes"
 
 <html>
-    <title>A Clicker for the game Clicker Heroes</title>
     <body>
     Inspired from some youtubers to try an create my own auto clicker with my knowledge<br/>
     The game is free on steam and is very fun<br/>
